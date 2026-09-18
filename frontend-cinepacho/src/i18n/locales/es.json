@@ -1,0 +1,827 @@
+{
+  "nav": {
+    "cartelera": "Cartelera",
+    "sedes": "Sedes",
+    "snacks": "Comida",
+    "survey": "Valoración",
+    "loyalty": "Lealtad",
+    "dashboard": "Dashboard",
+    "ingresar": "INGRESAR",
+    "searchPlaceholder": "Buscar películas...",
+    "adminPanel": "Panel Administrativo"
+  },
+  "business": {
+    "puntoAgil": "Punto ágil",
+    "boleteria": "Boletería",
+    "multiplex": "Multiplex",
+    "cinePacho": "CINE PACHO"
+  },
+  "roles": {
+    "admin": "Administrador",
+    "empleado": "Empleado",
+    "gerente": "Gerente",
+    "cajero": "Cajero",
+    "limpieza": "Personal de Limpieza",
+    "seguridad": "Seguridad",
+    "supervisor": "Supervisor"
+  },
+  "hero": {
+    "title": "Vive la Magia del Cine",
+    "subtitle": "Las mejores películas en la mejor experiencia",
+    "cta": "Reservar Ahora",
+    "badge": "Punto Ágil Cine Pacho",
+    "mainTitle": "Tu cine,",
+    "mainTitleHighlight": "más rápido.",
+    "description": "La plataforma de gestión cinematográfica diseñada para ofrecerte la mejor experiencia en cartelera, snacks y fidelización."
+  },
+  "cinema": {
+    "selectCinema": "Selecciona tu cine",
+    "allCinemas": "Todos los cines",
+    "showtimes": "Horarios",
+    "bookNow": "Reservar",
+    "title": "Nuestras",
+    "titleHighlight": "Sedes",
+    "subtitle": "Encuentra tu sala de cine Cine Pacho más cercana y vive la experiencia.",
+    "open": "Abierto",
+    "selectHeadquarters": "SELECCIONAR SEDE"
+  },
+  "movies": {
+    "title": "Nuestra",
+    "titleHighlight": "Cartelera",
+    "subtitle": "Descubre las películas más recientes en tu sede Cine Pacho.",
+    "noResults": "No se encontraron películas"
+  },
+  "movie": {
+    "premiere": "Estreno",
+    "film": "Película",
+    "viewShowtimes": "VER HORARIOS"
+  },
+  "booking": {
+    "selectSeats": "Selecciona tus asientos",
+    "selectedSeats": "Asientos seleccionados",
+    "total": "Total",
+    "confirm": "Confirmar Reserva",
+    "seat": "Asiento",
+    "available": "Disponible",
+    "occupied": "Ocupado",
+    "selected": "Seleccionado",
+    "screen": "Pantalla",
+    "preferential": "Preferencial",
+    "general": "General",
+    "bookingSummary": "Resumen de Reserva",
+    "noSeatsSelected": "No hay asientos seleccionados",
+    "seats": "Asientos",
+    "processingFee": "Tarifa de procesamiento",
+    "selectSeatsToContinue": "Selecciona asientos para continuar",
+    "continueToCheckout": "Continuar al Pago",
+    "addSnacks": "Agregar Snacks",
+    "allPricesIncludeTaxes": "✓ Todos los precios incluyen impuestos y tarifas",
+    "seatsHeldFor10Min": "✓ Los asientos se reservan por 10 minutos",
+    "cancellationAvailable": "✓ Cancelación disponible hasta 2 horas antes de la función",
+    "movieNotFound": "Película no encontrada",
+    "goBack": "Volver",
+    "pleaseSelectAtLeastOneSeat": "Por favor selecciona al menos un asiento para continuar"
+  },
+  "snacks": {
+    "title": "Confitería",
+    "addToCart": "Agregar al carrito",
+    "quantity": "Cantidad",
+    "price": "Precio",
+    "orderSummary": "Resumen del pedido",
+    "points": "Puntos obtenidos",
+    "yourOrder": "Tu pedido",
+    "cartEmpty": "Tu carrito está vacío. ¡Agrega algunos snacks para comenzar!",
+    "backToBooking": "Volver a la reserva",
+    "bookingDetails": "Detalles de la reserva",
+    "movie": "Película",
+    "showtime": "Función",
+    "cinema": "Cine",
+    "address": "Dirección",
+    "seats": "Asientos",
+    "ticketsSubtotal": "Subtotal de boletas",
+    "pointsToEarn": "Puntos a ganar",
+    "tickets": "Boletas",
+    "subtotal": "Subtotal",
+    "proceedToCheckout": "Proceder al pago",
+    "qty": "Cant",
+    "remove": "Eliminar",
+    "concessions": "Confitería",
+    "concessionsDescription": "Completa tu experiencia en alfombra roja con nuestra selección premium.",
+    "addingSnacksToBooking": "Agregando snacks a tu reserva",
+    "independentPurchaseDescription": "Compra snacks directamente en el punto ágil sin necesidad de reservar boletas de cine.",
+    "purchaseSuccessTitle": "Compra exitosa",
+    "purchaseSuccessMessage": "Compra de confitería completada",
+    "purchaseFailedTitle": "Error en la compra",
+    "purchaseError": "Error al procesar la compra de confitería",
+    "stockInsufficient": "Stock insuficiente",
+    "payNow": "Pague Ahora"
+  },
+  "loyalty": {
+    "title": "Programa de Lealtad",
+    "points": "Puntos",
+    "earnPoints": "Gana puntos con cada compra",
+    "redeem": "Canjear",
+    "brandTitle": "Cine Pacho",
+    "brandHighlight": "Loyalty",
+    "description": "Acumula puntos y vive el cine al máximo.",
+    "perTicket": "Por Boleta",
+    "perSnack": "Por Snack",
+    "freeTicket": "1 Boleta Gratis"
+    ,
+    "nextReward": "Siguiente Recompensa",
+    "pointsNeeded": "Puntos necesarios",
+    "pointsToEarn": "Puntos a ganar",
+    "yourFreeTickets": "Boletas Gratis Disponibles",
+    "issued": "Emitida",
+    "expires": "Expira",
+    "pointsHistory": "Historial de Puntos",
+    "noHistory": "No hay movimientos de puntos"
+    ,
+    "freeTicketAvailable": "Boleta gratis disponible",
+    "available": "Disponible",
+    "redeemNow": "Canjear ahora",
+    "freeTicketUsed": "Boleta gratis usada",
+    "freeTicketUsedTitle": "Boleta gratis usada"
+  },
+  
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "close": "Cerrar",
+    "copy": "Copiar",
+    "done": "Listo",
+    "back": "Volver",
+    "decreaseQuantity": "Disminuir cantidad",
+    "increaseQuantity": "Aumentar cantidad"
+  },
+  "carousel": {
+    "featuredMovies": "Películas Destacadas",
+    "subtitle": "Los estrenos más esperados y las películas más aclamadas de la semana.",
+    "goToSlide": "Ir al slide {{index}}"
+  },
+  "footer": {
+    "brand": "CINE PACHO",
+    "description": "La mejor experiencia cinematográfica, potenciada por el sistema de gestión inteligente Punto Ágil.",
+    "programming": "Programación",
+    "corporate": "Corporativo",
+    "social": "Síguenos",
+    "weeklyPremieres": "Estrenos de la semana",
+    "exclusivePreSales": "Preventas exclusivas",
+    "imaxVipFormats": "Formatos IMAX & VIP",
+    "ourLocations": "Nuestras Sedes",
+    "employeePortal": "Portal de Empleados",
+    "termsConditions": "Términos y condiciones",
+    "copyright": "© {year} CINE PACHO • DESARROLLADO BAJO METODOLOGÍA PUNTO ÁGIL"
+  },
+  "movieInfo": {
+    "seatSelection": "SELECCIÓN DE",
+    "seatSelectionHighlight": "ASIENTOS",
+    "selectShowtime": "Seleccionar horario",
+    "selectedCinema": "Cine Seleccionado",
+    "language": "Español (Subtitulado)"
+  },
+  "movieDetails": {
+    "movieNotFound": "Película no encontrada",
+    "backToHome": "Volver al Inicio",
+    "cinemaLocation": "Ubicación del Cine",
+    "change": "Cambiar",
+    "availableShowtimes": "Horarios Disponibles",
+    "showtimesNotAvailable": "Horarios no disponibles",
+    "bookTickets": "Reservar Boletos",
+    "loginToSeeShowtimes": "Iniciar sesión para ver horarios",
+    "bookTicketsWithTime": "Reservar Boletos - {{showtime}}",
+    "selectShowtimeToBook": "Seleccionar Horario para Reservar",
+    "pleaseSelectShowtime": "Por favor selecciona un horario arriba para continuar",
+    "pleaseSelectCinema": "Por favor selecciona una ubicación de cine arriba para continuar"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Revisa tu reserva y completa tu compra.",
+    "noActiveBooking": "No hay una reserva activa",
+    "selectMovieAndSeats": "Selecciona una película y asientos para continuar.",
+    "browseMovies": "Explorar películas",
+    "bookingSummary": "Resumen de Reserva",
+    "ticketsConfirmed": "Boletas confirmadas",
+    "ticketsConfirmedSubtitle": "Tus asientos están reservados. Agrega snacks abajo o continúa para completar la compra.",
+    "movie": "Película",
+    "selectedMovie": "Película Seleccionada",
+    "cinema": "Cine",
+    "selectedCinema": "Cine Seleccionado",
+    "selectedSeats": "Asientos Seleccionados ({{count}})",
+    "snacks": "Snacks",
+    "ticketsWithCount": "Boletas ({{count}})",
+    "processingFee": "Tarifa de procesamiento",
+    "amountDue": "Monto a Pagar",
+    "total": "Total",
+    "ticketsAlreadyPaid": "Boletas ya pagadas (${{amount}})",
+    "completePurchase": "Completar Compra",
+    "payForSnacks": "Pagar Snacks",
+    "bookingComplete": "Reserva Completada",
+    "addSnacks": "Agregar Snacks",
+    "startNewBooking": "Iniciar nueva reserva",
+    "backToBooking": "Volver a la reserva"
+    ,
+    "paymentSuccessTitle": "Pago exitoso",
+    "paymentSuccessMessage": "Pago confirmado",
+    "paymentFailedTitle": "Pago fallido",
+    "purchaseError": "Hubo un error al completar la compra"
+  },
+  
+  "cinemaModal": {
+    "selectCinemaLocation": "Seleccionar Ubicación del Cine",
+    "chooseWhereToWatch": "Elige dónde te gustaría ver",
+    "select": "SELECCIONAR",
+    "cancel": "CANCELAR"
+  },
+  "user": {
+    "myPoints": "Mis Puntos"
+  },
+  "genres": {
+    "sciFi": "Ciencia Ficción",
+    "adventure": "Aventura",
+    "horror": "Terror",
+    "drama": "Drama",
+    "thriller": "Thriller",
+    "animation": "Animación",
+    "action": "Acción",
+    "comedy": "Comedia"
+  },
+  "welcomeModal": {
+    "selectLocation": "Selecciona tu sede",
+    "selectLocationDescription": "Elige tu cine Cine Pacho para comenzar tu experiencia",
+    "select": "SELECCIONAR",
+    "poweredBy": "Potenciado por"
+  },
+  "admin": {
+    "dailySummary": {
+      "title": "Ventas Diarias",
+      "highlight": "Reporte",
+      "branch": "Sede",
+      "period": "Periodo",
+      "periodDaily": "Diario",
+      "periodMonthly": "Mensual",
+      "periodTotal": "Total",
+      "periodCustom": "Intervalo",
+      "to": "a",
+      "allTimeRange": "Todo el histórico",
+      "salesCount": "Cantidad de ventas",
+      "loadingBranches": "Cargando sedes...",
+      "noBranches": "Sin sedes disponibles",
+      "loadingMetrics": "Cargando métricas...",
+      "noSalesToday": "No hay ventas registradas para hoy en esta sede.",
+      "noSalesForPeriod": "No hay ventas registradas para el periodo seleccionado.",
+      "summaryError": "No se pudieron cargar las métricas del resumen.",
+      "exportCSV": "Exportar CSV",
+      "closeShift": "Cerrar Turno",
+      "closeShiftConfirm": "¿Desea cerrar el turno?"
+    },
+
+    "metrics": {
+      "totalRevenue": "Ingresos Totales",
+      "ticketsSold": "Boletas Vendidas",
+      "snackSales": "Venta de Snacks",
+      "activeFunctions": "Funciones Activas",
+      "vsYesterday": "vs ayer",
+      "vsPreviousMonth": "vs mes anterior",
+      "vsPreviousRange": "vs rango anterior",
+      "vsHistoricalAverage": "referencial"
+    },
+
+    "revenueChart": {
+      "title": "Flujo de Caja Pasarela",
+      "paidOnly": "Solo Compras Pasadas a Estado: \"pagado\""
+    },
+
+    "topMovies": {
+      "title": "Top por Taquilla",
+      "tickets": "Tix",
+      "unknownMovie": "Película desconocida"
+    },
+
+    "sidebar": {
+      "dailySummary": "Resumen de ventas",
+      "users": "Gestión de usuarios",
+      "programming": "Programación Funciones",
+      "inventory": "Inventario Sede",
+      "staff": "Personal e Historial",
+      "multiplex": "Gestión de Multiplex",
+      "newFunction": "Nueva Función",
+      "newMovie": "Nueva película",
+      "removeMovieFromBillboard": "Sacar de cartelera",
+      "logout": "Cerrar Sesión"
+    },
+
+    "movieForm": {
+      "createTitle": "Nueva película",
+      "createSubtitle": "Formulario de creación de película",
+      "movieName": "Nombre de la película",
+      "movieNamePlaceholder": "Ej: El viaje imposible",
+      "director": "Director",
+      "directorPlaceholder": "Ej: Juan Pérez",
+      "classification": "Clasificación",
+      "classifications": {
+        "g": "G",
+        "pg": "PG",
+        "pg13": "PG-13",
+        "r": "R",
+        "nc17": "NC-17"
+      },
+      "posterUrl": "URL de la imagen",
+      "posterUrlPlaceholder": "https://...",
+      "posterUrlHelp": "Pega una URL pública de la imagen para verla como vista previa.",
+      "duration": "Duración",
+      "durationMin": "{{minutes}} min",
+      "durationMax": "{{minutes}} min",
+      "description": "Descripción",
+      "descriptionPlaceholder": "Describe brevemente la historia, tono o enfoque de la película",
+      "genres": "Géneros",
+      "genresPlaceholder": "Ej: Acción, Drama, Terror",
+      "protagonists": "Protagonistas",
+      "protagonistsPlaceholder": "Ej: Ana López",
+      "submit": "Crear película",
+      "validation": {
+        "requiredFields": "Completa nombre, descripción y director antes de guardar",
+        "atLeastOneGenre": "Agrega al menos un género",
+        "atLeastOneProtagonist": "Agrega al menos un protagonista",
+        "createFailed": "Error al crear la película. Revisa los datos e intenta de nuevo."
+      }
+    },
+
+    "removeMovieForm": {
+      "title": "Sacar de cartelera",
+      "subtitle": "Formulario para retirar una película",
+      "loading": "Cargando películas...",
+      "selectMovie": "Selecciona la película",
+      "selectPlaceholder": "-- Selecciona una película --",
+      "selectedMovie": "Película seleccionada",
+      "deleting": "Eliminando...",
+      "confirmDelete": "Confirmar eliminación",
+      "loadFailed": "No fue posible cargar las películas",
+      "selectMovieRequired": "Selecciona una película para eliminar",
+      "deleteFailed": "No fue posible eliminar la película"
+    },
+
+    "createFunction": {
+      "title": "Nueva Función",
+      "subtitle": "Crear nueva función",
+      "movie": "Película",
+      "selectMovie": "Seleccionar película",
+      "headquarters": "Sede",
+      "selectHeadquarters": "Seleccionar sede",
+      "room": "Sala",
+      "selectRoom": "Seleccionar sala",
+      "capacity": "Capacidad",
+      "date": "Fecha",
+      "dateFormat": "dd/mm/yyyy",
+      "time": "Hora",
+      "timeFormat": "--:--",
+      "format": "Formato",
+      "generalPrice": "Precio General",
+      "preferentialPrice": "Precio Preferencial",
+      "pricePlaceholder": "0.00"
+    },
+
+    "functionSchedule": {
+      "title": "Programación de",
+      "titleAccent": "Funciones",
+      "subtitle": "Visualiza y gestiona todas las funciones programadas en tus sedes.",
+      "filterBySede": "Filtrar por sede",
+      "allSedes": "Todas las sedes",
+      "totalFunctions": "Total de funciones",
+      "noFunctions": "No hay funciones programadas",
+      "movie": "Película",
+      "sede": "Sede",
+      "room": "Sala",
+      "time": "Hora",
+      "format": "Formato"
+    }
+  },
+  "dashboard": {
+    "multiplex": {
+      "editMultiplex": "Editar Sede",
+      "newRoom": "Nueva Sala",
+      "emptyRooms": "No existen configuraciones de salas activas para este multiplex. Presiona \"Nueva Sala\" para iniciar."
+    },
+
+    "multiplexForm": {
+      "name": "Nombre",
+      "namePlaceholder": "Ej: Cine Pacho Titán Plaza",
+      "city": "Ciudad",
+      "cityPlaceholder": "Ej: Bogotá",
+      "address": "Dirección",
+      "addressPlaceholder": "Ej: Av. Carrera 72 #80-94",
+      "image": "Imagen URL",
+      "seatConfiguration": "Configuración de Sillas",
+      "rows": "Filas",
+      "columns": "Columnas",
+      "updateMultiplex": "Actualizar Multiplex",
+      "registerMultiplex": "Registrar Multiplex"
+    },
+
+    "room": {
+      "active": "Activa",
+      "maintenance": "Mantenimiento",
+      "inactive": "Inactiva",
+      "totalCapacity": "Capacidad Total:",
+      "seats": "asientos",
+      "generalVsPref": "General vs Pref:",
+      "generalInitial": "G",
+      "preferentialInitial": "P"
+    },
+
+    "roomForm": {
+      "roomName": "Nombre de Sala",
+      "roomPlaceholder": "Ej: Sala VIP",
+      "type": "Tipo",
+      "rows": "Filas",
+      "columns": "Columnas",
+      "totalSeats": "Total Seats:",
+      "general": "General",
+      "preferential": "Preferencial",
+      "seatDistribution": "Distribución de Asientos",
+      "updateRoom": "Actualizar Sala",
+      "createRoom": "Crear Sala"
+    },
+
+    "multiplexManagement": {
+      "title": "Multiplex &",
+      "titleAccent": "Salas",
+      "subtitle": "Centro de Control de Infraestructura, Capacidad de Aforo y Parámetros Comerciales.",
+      "newMultiplex": "Nuevo Multiplex",
+      "registeredLocations": "Sedes Registradas",
+      "roomsInfrastructure": "Salas en Infraestructura",
+      "roomsOnline": "Salas Habilitadas",
+      "registerLocation": "Registrar Sede",
+      "modifyLocation": "Modificar Sede",
+      "addRoom": "Anexar Nueva Sala",
+      "configureRoom": "Configurar Sala",
+      "catalogModule": "Módulo de Catálogo Estructural"
+    }
+  },
+  "employee": {
+    "table": {
+      "code": "Código",
+      "employee": "Empleado",
+      "user": "Usuario",
+      "salary": "Salario",
+      "role": "Cargo",
+      "multiplex": "Multiplex",
+      "lastChange": "Último cambio",
+      "history": "Historial",
+      "actions": "Acciones",
+      "since": "Desde",
+      "unassigned": "Sin asignar"
+    },
+
+    "roles": {
+      "director": "Director",
+      "encargado_sala": "Encargado Sala",
+      "cajero": "Cajero",
+      "despachador_comida": "Despachador de comida",
+      "aseador": "Aseador"
+    },
+
+    "states": {
+      "activo": "Activo",
+      "vacaciones": "Vacaciones",
+      "suspendido": "Suspendido",
+      "despedido": "Despedido"
+    },
+
+    "actions": {
+      "viewHistory": "Ver Historial",
+      "fireEmployee": "Despedir Empleado",
+      "promote": "Ascender",
+      "degrade": "Degradar",
+      "fire": "Despedir"
+    },
+
+    "filters": {
+      "search": "Buscar empleado o código...",
+      "allRoles": "Todos los cargos",
+      "allMultiplexes": "Todos los multiplex",
+      "allStates": "Todos los estados"
+    },
+
+    "history": {
+      "title": "Historial Laboral",
+      "start": "Inicio",
+      "end": "Fin",
+      "current": "Actual",
+      "unknown": "Desconocido"
+    },
+
+    "management": {
+      "internalAdmin": "Administración Interna",
+      "title": "Gestión de Empleados",
+      "description": "Administra el personal operativo, los cargos y el historial laboral dentro de los multiplex.",
+      "save": "Guardar Cambios",
+      "new": "Nuevo empleado",
+      "view": "Ver",
+      "create": {
+        "badge": "Alta de personal",
+        "title": "Crear empleado",
+        "submit": "Crear empleado"
+      },
+      "loadError": "No se pudieron cargar los empleados desde el backend",
+      "saveError": "No se pudo guardar el cambio"
+    },
+      "credentials": {
+        "title": "Credenciales generadas",
+        "email": "Correo",
+        "password": "Contraseña",
+        "emailMissing": "El usuario no tiene un correo registrado",
+        "saveFailed": "No se pudieron guardar las credenciales"
+      },
+
+    "maganment": {
+      "view": "Ver"
+    },
+
+    "form": {
+      "codigoEmpleado": "Código de empleado",
+      "codigoPlaceholder": "Opcional, se genera automáticamente",
+      "cedula": "Cédula del usuario",
+      "cedulaPlaceholder": "Cédula registrada en /usuarios",
+      "salario": "Salario",
+      "salarioPlaceholder": "Salario base del empleado",
+      "userNotFound": "No se encontró un usuario con esa cédula",
+      "selectMultiplex": "Selecciona un multiplex",
+      "helper": "El backend generará el código si lo dejas vacío. Solo envía campos reales del modelo Empleado."
+    },
+    "dashboard": {
+      "customerLookupError": "No se encontró un usuario con ese correo.",
+      "loading": "Cargando sesión de empleado.",
+      "loadinMultiplex": "Ajustando sede asignada y permisos...",
+      "title": "Panel de empleado",
+      "client": "Cliente",
+      "placeholderEmailBar": "Ingrese correo para obtener puntos o boleta digital...",
+      "registering": "Registrando",
+      "registerClient": "Registrar cliente",
+      "validating": "Validando",
+      "registered": "Registrado",
+      "pending": "Pendiente",
+      "anonimous": "Anónimo"
+    },
+    "bookingAssisted":{
+      "ticketOffice": "Taquilla: ",
+      "general": "General",
+      "select": "Selecciona una película para iniciar la venta asistida",
+      "placeHolderSearch": "Buscar película..."
+    },
+    "sidebar":{
+      "tickets": "Venta de Boletas",
+      "food": "Venta de Comida"
+    }
+  },
+  "userManagement": {
+    "header": {
+      "badge": "Administración Interna",
+      "title": "Gestión de usuarios",
+      "description": "Administra usuarios del sistema, crea accesos, edita datos y elimina cuentas cuando sea necesario."
+    },
+    "filters": {
+      "searchPlaceholder": "Buscar por cédula, nombre o email",
+      "allRoles": "Todos los roles"
+    },
+    "roles": {
+      "cliente": "Cliente",
+      "empleado": "Empleado",
+      "administrador": "Administrador"
+    },
+    "table": {
+      "name": "Nombre",
+      "email": "Correo",
+      "role": "Rol",
+      "points": "Puntos",
+      "actions": "Acciones",
+      "loading": "Cargando usuarios...",
+      "empty": "No hay usuarios para mostrar."
+    },
+    "form": {
+      "createBadge": "Crear usuario",
+      "editBadge": "Editar usuario",
+      "newRecord": "Nuevo registro",
+      "placeholders": {
+        "cedula": "Cédula",
+        "nombre": "Nombre",
+        "apellido": "Apellido",
+        "email": "Correo electrónico",
+        "telefono": "Teléfono",
+        "direccion": "Dirección",
+        "password": "Contraseña",
+        "newPassword": "Nueva contraseña (opcional)"
+      }
+    },
+    "actions": {
+      "edit": "Editar",
+      "delete": "Eliminar",
+      "create": "Crear",
+      "update": "Actualizar",
+      "clear": "Limpiar",
+      "saving": "Guardando..."
+    },
+    "errors": {
+      "loadUsers": "No se pudieron cargar los usuarios",
+      "passwordRequired": "La contraseña es obligatoria para crear un usuario",
+      "saveUser": "No se pudo guardar el usuario",
+      "deleteUser": "No se pudo eliminar el usuario"
+    },
+    "confirmDelete": "¿Eliminar al usuario {{name}}?"
+  },
+  "inventory": {
+    "header": {
+      "badge": "Administración Operativa",
+      "title": "Inventario",
+      "description": "Controla existencias, productos y ajustes del inventario operativo del multiplex."
+    },
+
+    "filters": {
+      "searchPlaceholder": "Buscar producto o marca..."
+    },
+
+    "stats": {
+      "products": "Productos",
+      "totalUnits": "Unidades Totales",
+      "lowStock": "Stock Bajo"
+    },
+
+    "table": {
+      "product": "Producto",
+      "brand": "Marca",
+      "stock": "Stock",
+      "price": "Precio",
+      "actions": "Acciones",
+      "adjust": "Ajustar",
+      "delete": "Eliminar"
+    },
+
+    "deleteModal": {
+      "title": "Eliminar producto",
+      "description": "Esta accion no se puede deshacer. Se eliminara {{itemName}}.",
+      "defaultItem": "el producto seleccionado",
+      "deleting": "Eliminando..."
+    },
+
+    "adjust": {
+      "title": "Ajuste de Inventario",
+      "currentStock": "Stock Actual",
+      "adjustment": "Ajuste",
+      "helper": "Usa valores positivos para agregar stock y negativos para reducir inventario."
+    }
+    ,
+    "form": {
+      "title": "Agregar producto a sede seleccionada",
+      "name": "Nombre",
+      "brand": "Marca",
+      "price": "Precio",
+      "image": "Imagen (URL)",
+      "addButton": "Añadir a sede",
+      "adding": "Añadiendo..."
+    }
+  },
+  "survey": {
+    "hero": {
+      "title": "¿Cómo fue tu función?",
+      "description": "Esperamos que hayas disfrutado la función. Tu opinión nos ayuda a perfeccionar la experiencia cinematográfica."
+    },
+
+    "movie": {
+      "title": "Experiencia de la Película",
+      "subtitle": "Calidad y Sonido"
+    },
+
+    "amenities": {
+      "title": "Comodidades del Cine",
+      "subtitle": "Servicio y Comodidad"
+    },
+
+    "feedback": {
+      "title": "Notas del Director",
+      "description": "¿Algún comentario adicional que quieras compartir?",
+      "placeholder": "Escribe tu reseña aquí..."
+    },
+
+    "labels": {
+      "poor": "Malo",
+      "masterpiece": "Obra Maestra",
+      "immaculate": "Impecable"
+    },
+
+    "actions": {
+      "submit": "Enviar Reseña"
+    },
+
+    "selector": {
+      "badge": "Selección de Película",
+      "title": "Escoge una Película",
+      "description": "Selecciona una de las películas que viste recientemente para dejar tu reseña.",
+      "watchedOn": "Vista el"
+    },
+
+    "empty": {
+      "title": "Selecciona una Película",
+      "description": "Escoge una película arriba para comenzar tu reseña."
+    }
+  },
+  "register": {
+    "badge": "Nueva Cuenta",
+    "title": "Registrarse",
+    "subtitle": "Crea una cuenta para disfrutar de la experiencia Cine Pacho.",
+    "name": "Primer Nombre",
+    "namePlaceholder": "Juan",
+    "lastName": "Primer Apellido",
+    "lastNamePlaceholder": "Pérez",
+    "cedula": "Cédula",
+    "phone": "Teléfono",
+    "address": "Dirección",
+    "addressPlaceholder": "Calle 123 #45-67",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "correo@cinepacho.com",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar Contraseña",
+    "passwordMismatch": "Las contraseñas no coinciden.",
+    "corporateEmailRequired": "Debes usar un correo institucional @cinepacho.com",
+    "submit": "Registrarse",
+    "loading": "Creando Cuenta...",
+    "haveAccount": "¿Ya tienes cuenta?",
+    "login": "Inicia sesión",
+    "failed": "El registro falló"
+  },
+  "auth": {
+    "cinemaExperience": "Experiencia Cinematográfica",
+    "invalidCredentials": "Credenciales inválidas"
+  },
+  "validation": {
+    "login": {
+      "email": {
+        "required": "En el campo correo electrónico debes escribir un valor.",
+        "invalid": "En el campo correo electrónico debes escribir un correo válido."
+      },
+      "password": {
+        "required": "En el campo contraseña debes escribir un valor.",
+        "min": "En el campo contraseña debes escribir al menos 6 caracteres."
+      }
+    },
+    "register": {
+      "name": {
+        "required": "En el campo primer nombre debes escribir un valor.",
+        "length": "El campo primer nombre necesita al menos {{count}} caracteres más."
+      },
+      "lastName": {
+        "required": "En el campo primer apellido debes escribir un valor.",
+        "length": "El campo primer apellido necesita al menos {{count}} caracteres más."
+      },
+      "cedula": {
+        "required": "En el campo cédula debes escribir un valor.",
+        "digits": "En el campo cédula solo puedes escribir números.",
+        "length": "El campo cédula necesita al menos {{count}} dígitos más."
+      },
+      "phone": {
+        "required": "En el campo teléfono debes escribir un valor.",
+        "digits": "En el campo teléfono solo puedes escribir números.",
+        "length": "El campo teléfono necesita {{count}} dígitos más."
+      },
+      "address": {
+        "required": "En el campo dirección debes escribir un valor.",
+        "length": "El campo dirección necesita al menos {{count}} caracteres más."
+      },
+      "email": {
+        "required": "En el campo correo electrónico debes escribir un valor.",
+        "invalid": "En el campo correo electrónico debes escribir un correo válido."
+      },
+      "password": {
+        "required": "En el campo contraseña debes escribir un valor.",
+        "min": "En el campo contraseña debes escribir al menos 6 caracteres."
+      },
+      "confirmPassword": {
+        "required": "En el campo confirmar contraseña debes escribir un valor.",
+        "min": "En el campo confirmar contraseña debes escribir al menos 6 caracteres.",
+        "mismatch": "En el campo confirmar contraseña las contraseñas no coinciden."
+      }
+    }
+  },
+  "login": {
+    "badge": "Acceso Seguro",
+    "title": "Iniciar Sesión",
+    "subtitle": "Accede a tu cuenta para continuar con tu experiencia cinematográfica.",
+    "email": "Correo Electrónico",
+    "emailPlaceholder": "correo@cinepacho.com",
+    "password": "Contraseña",
+    "submit": "Entrar",
+    "loading": "Ingresando...",
+    "notHaveAccount": "¿No tienes cuenta?",
+    "register": "Regístrate",
+    "failed":"El registro falló"
+  },
+  "landing": {
+    "loading": "Cargando películas...",
+    "error": "Error cargando películas."
+  }
+}

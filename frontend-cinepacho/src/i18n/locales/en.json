@@ -1,0 +1,827 @@
+{
+  "nav": {
+    "cartelera": "Now Showing",
+    "sedes": "Locations",
+    "snacks": "Snacks",
+    "survey": "Survey",
+    "loyalty": "Loyalty",
+    "dashboard": "Dashboard",
+    "ingresar": "SIGN IN",
+    "searchPlaceholder": "Search movies...",
+    "adminPanel": "Administrator Dashboard"
+  },
+  "business": {
+    "puntoAgil": "Agile Point",
+    "boleteria": "Box Office",
+    "multiplex": "Multiplex",
+    "cinePacho": "CINE PACHO"
+  },
+  "roles": {
+    "admin": "Administrator",
+    "empleado": "Employee",
+    "gerente": "Manager",
+    "cajero": "Cashier",
+    "limpieza": "Cleaning Staff",
+    "seguridad": "Security",
+    "supervisor": "Supervisor"
+  },
+  "hero": {
+    "title": "Experience the Magic of Cinema",
+    "subtitle": "The best movies in the best experience",
+    "cta": "Book Now",
+    "badge": "Agile Point Cine Pacho",
+    "mainTitle": "Your cinema,",
+    "mainTitleHighlight": "faster.",
+    "description": "The cinema management platform designed to offer you the best experience in movies, snacks, and loyalty."
+  },
+  "cinema": {
+    "selectCinema": "Select your cinema",
+    "allCinemas": "All cinemas",
+    "showtimes": "Showtimes",
+    "bookNow": "Book Now",
+    "title": "Our",
+    "titleHighlight": "Locations",
+    "subtitle": "Find your nearest Cine Pacho cinema and experience the magic.",
+    "open": "Open",
+    "selectHeadquarters": "SELECT LOCATION"
+  },
+  "movies": {
+    "title": "Our",
+    "titleHighlight": "Movies",
+    "subtitle": "Discover the latest movies at your Cine Pacho location.",
+    "noResults": "No movies found"
+  },
+  "movie": {
+    "premiere": "Premiere",
+    "film": "Film",
+    "viewShowtimes": "VIEW SHOWTIMES"
+  },
+  "booking": {
+    "selectSeats": "Select your seats",
+    "selectedSeats": "Selected seats",
+    "total": "Total",
+    "confirm": "Confirm Booking",
+    "seat": "Seat",
+    "available": "Available",
+    "occupied": "Occupied",
+    "selected": "Selected",
+    "screen": "Screen",
+    "preferential": "Preferential",
+    "general": "General",
+    "bookingSummary": "Booking Summary",
+    "noSeatsSelected": "No seats selected",
+    "seats": "Seats",
+    "processingFee": "Processing Fee",
+    "selectSeatsToContinue": "Select Seats to Continue",
+    "continueToCheckout": "Continue to Checkout",
+    "addSnacks": "Add Snacks",
+    "allPricesIncludeTaxes": "✓ All prices include taxes & fees",
+    "seatsHeldFor10Min": "✓ Seats are held for 10 minutes",
+    "cancellationAvailable": "✓ Cancellation available up to 2 hours before showtime",
+    "movieNotFound": "Movie not found",
+    "goBack": "Go Back",
+    "pleaseSelectAtLeastOneSeat": "Please select at least one seat to continue"
+  },
+  "snacks": {
+    "title": "Confectionery",
+    "addToCart": "Add to cart",
+    "quantity": "Quantity",
+    "price": "Price",
+    "orderSummary": "Order summary",
+    "points": "pts",
+    "yourOrder": "Your Order",
+    "cartEmpty": "Your cart is empty. Add some snacks to get started!",
+    "backToBooking": "Back to Booking",
+    "bookingDetails": "Booking Details",
+    "movie": "Movie",
+    "showtime": "Showtime",
+    "cinema": "Cinema",
+    "address": "Address",
+    "seats": "Seats",
+    "ticketsSubtotal": "Tickets Subtotal",
+    "pointsToEarn": "Points to earn",
+    "tickets": "Tickets",
+    "subtotal": "Subtotal",
+    "proceedToCheckout": "Proceed to Checkout",
+    "qty": "Qty",
+    "remove": "Remove",
+    "concessions": "Confectionery",
+    "concessionsDescription": "Complete your red carpet experience with our premium selection.",
+    "addingSnacksToBooking": "Adding snacks to your booking",
+    "independentPurchaseDescription": "Purchase snacks directly at the Agile Point without needing to reserve cinema tickets.",
+    "purchaseSuccessTitle": "Purchase Successful",
+    "purchaseSuccessMessage": "Snack purchase completed",
+    "purchaseFailedTitle": "Purchase Failed",
+    "purchaseError": "Error processing snack purchase",
+    "stockInsufficient": "Insufficient stock",
+    "payNow": "Pay Now"
+  },
+  "loyalty": {
+    "title": "Loyalty Program",
+    "points": "Points",
+    "earnPoints": "Earn points with every purchase",
+    "redeem": "Redeem",
+    "brandTitle": "Cine Pacho",
+    "brandHighlight": "Loyalty",
+    "description": "Accumulate points and experience cinema to the fullest.",
+    "perTicket": "Per Ticket",
+    "perSnack": "Per Snack",
+    "freeTicket": "1 Free Ticket"
+    ,
+    "nextReward": "Next Reward",
+    "pointsNeeded": "Points needed",
+    "pointsToEarn": "Points to earn",
+    "yourFreeTickets": "Your Free Tickets",
+    "issued": "Issued",
+    "expires": "Expires",
+    "pointsHistory": "Points History",
+    "noHistory": "No points history available"
+    ,
+    "freeTicketAvailable": "Free ticket available",
+    "available": "Available",
+    "redeemNow": "Redeem now",
+    "freeTicketUsed": "Free ticket used",
+    "freeTicketUsedTitle": "Free Ticket Used"
+  },
+  
+  "carousel": {
+    "featuredMovies": "Featured Movies",
+    "subtitle": "The most anticipated premieres and the most acclaimed movies of the week.",
+    "goToSlide": "Go to slide {index}"
+  },
+  "footer": {
+    "brand": "CINE PACHO",
+    "description": "The best cinema experience, powered by the intelligent management system Agile Point.",
+    "programming": "Programming",
+    "corporate": "Corporate",
+    "social": "Follow Us",
+    "weeklyPremieres": "Weekly Premieres",
+    "exclusivePreSales": "Exclusive Pre-sales",
+    "imaxVipFormats": "IMAX & VIP Formats",
+    "ourLocations": "Our Locations",
+    "employeePortal": "Employee Portal",
+    "termsConditions": "Terms and Conditions",
+    "copyright": "© {year} CINE PACHO • DEVELOPED UNDER AGILE POINT METHODOLOGY"
+  },
+  "movieInfo": {
+    "seatSelection": "SEAT",
+    "seatSelectionHighlight": "SELECTION",
+    "selectShowtime": "Select showtime",
+    "selectedCinema": "Selected Cinema",
+    "language": "English (Subbed)"
+  },
+  "movieDetails": {
+    "movieNotFound": "Movie not found",
+    "backToHome": "Back to Home",
+    "cinemaLocation": "Cinema Location",
+    "change": "Change",
+    "availableShowtimes": "Available Showtimes",
+    "showtimesNotAvailable": "Showtimes not available",
+    "bookTickets": "Book Tickets",
+    "loginToSeeShowtimes": "Sign in to view showtimes",
+    "bookTicketsWithTime": "Book Tickets - {{showtime}}",
+    "selectShowtimeToBook": "Select Showtime to Book",
+    "pleaseSelectShowtime": "Please select a showtime above to continue",
+    "pleaseSelectCinema": "Please select a cinema location above to continue"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "subtitle": "Review your booking and complete your purchase.",
+    "noActiveBooking": "No active booking",
+    "selectMovieAndSeats": "Start by selecting a movie and seats to continue.",
+    "browseMovies": "Browse Movies",
+    "bookingSummary": "Booking Summary",
+    "ticketsConfirmed": "Tickets Confirmed",
+    "ticketsConfirmedSubtitle": "Your seats are reserved. Add snacks below or proceed to complete your booking.",
+    "movie": "Movie",
+    "selectedMovie": "Selected Movie",
+    "cinema": "Cinema",
+    "selectedCinema": "Selected Cinema",
+    "selectedSeats": "Selected Seats ({{count}})",
+    "snacks": "Snacks",
+    "ticketsWithCount": "Tickets ({{count}})",
+    "processingFee": "Processing Fee",
+    "amountDue": "Amount Due",
+    "total": "Total",
+    "ticketsAlreadyPaid": "Tickets already paid (${{amount}})",
+    "completePurchase": "Complete Purchase",
+    "payForSnacks": "Pay for Snacks",
+    "bookingComplete": "Booking Complete",
+    "addSnacks": "Add Snacks",
+    "startNewBooking": "Start New Booking",
+    "backToBooking": "Back to Booking"
+    ,
+    "paymentSuccessTitle": "Payment Successful",
+    "paymentSuccessMessage": "Payment confirmed — purchase #",
+    "paymentFailedTitle": "Payment Failed",
+    "purchaseError": "There was an error completing your purchase"
+  },
+  
+  "cinemaModal": {
+    "selectCinemaLocation": "Select Cinema Location",
+    "chooseWhereToWatch": "Choose where you'd like to watch",
+    "select": "SELECT",
+    "cancel": "CANCEL"
+  },
+  "user": {
+    "myPoints": "My Points"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving...",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "copy": "Copy",
+    "done": "Done",
+    "back": "Back",
+    "decreaseQuantity": "Decrease quantity",
+    "increaseQuantity": "Increase quantity"
+  },
+  "genres": {
+    "sciFi": "Sci-Fi",
+    "adventure": "Adventure",
+    "horror": "Horror",
+    "drama": "Drama",
+    "thriller": "Thriller",
+    "animation": "Animation",
+    "action": "Action",
+    "comedy": "Comedy"
+  },
+  "welcomeModal": {
+    "selectLocation": "Select your location",
+    "selectLocationDescription": "Choose your Cine Pacho cinema to start your experience",
+    "select": "SELECT",
+    "poweredBy": "Powered by"
+  },
+  "admin": {
+    "dailySummary": {
+      "title": "Daily Sales",
+      "highlight": "Report",
+      "branch": "Branch",
+      "period": "Period",
+      "periodDaily": "Daily",
+      "periodMonthly": "Monthly",
+      "periodTotal": "Total",
+      "periodCustom": "Custom range",
+      "to": "to",
+      "allTimeRange": "All time",
+      "salesCount": "Sales count",
+      "loadingBranches": "Loading branches...",
+      "noBranches": "No branches available",
+      "loadingMetrics": "Loading metrics...",
+      "noSalesToday": "No sales registered today for this branch.",
+      "noSalesForPeriod": "No sales registered for the selected period.",
+      "summaryError": "Could not load daily summary metrics.",
+      "exportCSV": "Export CSV",
+      "closeShift": "Close Shift",
+      "closeShiftConfirm": "Do you want to close the shift?"
+    },
+
+    "metrics": {
+      "totalRevenue": "Total Revenue",
+      "ticketsSold": "Tickets Sold",
+      "snackSales": "Snack Sales",
+      "activeFunctions": "Active Functions",
+      "vsYesterday": "vs yesterday",
+      "vsPreviousMonth": "vs previous month",
+      "vsPreviousRange": "vs previous range",
+      "vsHistoricalAverage": "reference"
+    },
+
+    "revenueChart": {
+      "title": "Gateway Cash Flow",
+      "paidOnly": "Only purchases with status: \"paid\""
+    },
+
+    "topMovies": {
+      "title": "Top Box Office",
+      "tickets": "Tix",
+      "unknownMovie": "Unknown movie"
+    },
+
+    "sidebar": {
+      "dailySummary": "Sales Summary",
+      "users": "User Management",
+      "programming": "Function Programming",
+      "inventory": "Inventory Management",
+      "staff": "Staff & History",
+      "multiplex": "Multiplex Management",
+      "newFunction": "New Function",
+      "newMovie": "New movie",
+      "removeMovieFromBillboard": "Remove from billboard",
+      "logout": "Logout"
+    },
+
+    "movieForm": {
+      "createTitle": "New movie",
+      "createSubtitle": "Movie creation form",
+      "movieName": "Movie name",
+      "movieNamePlaceholder": "Example: The impossible journey",
+      "director": "Director",
+      "directorPlaceholder": "Example: John Doe",
+      "classification": "Rating",
+      "classifications": {
+        "g": "G",
+        "pg": "PG",
+        "pg13": "PG-13",
+        "r": "R",
+        "nc17": "NC-17"
+      },
+      "posterUrl": "Image URL",
+      "posterUrlPlaceholder": "https://...",
+      "posterUrlHelp": "Paste a public image URL to preview it here.",
+      "duration": "Duration",
+      "durationMin": "{{minutes}} min",
+      "durationMax": "{{minutes}} min",
+      "description": "Description",
+      "descriptionPlaceholder": "Briefly describe the story, tone, or focus of the movie",
+      "genres": "Genres",
+      "genresPlaceholder": "Example: Action, Drama, Horror",
+      "protagonists": "Main cast",
+      "protagonistsPlaceholder": "Example: Ana Lopez",
+      "submit": "Create movie",
+      "validation": {
+        "requiredFields": "Complete name, description, and director before saving",
+        "atLeastOneGenre": "Add at least one genre",
+        "atLeastOneProtagonist": "Add at least one main cast member",
+        "createFailed": "Could not create the movie. Check the data and try again."
+      }
+    },
+
+    "removeMovieForm": {
+      "title": "Remove from billboard",
+      "subtitle": "Form to remove a movie",
+      "loading": "Loading movies...",
+      "selectMovie": "Select the movie",
+      "selectPlaceholder": "-- Select a movie --",
+      "selectedMovie": "Selected movie",
+      "deleting": "Deleting...",
+      "confirmDelete": "Confirm delete",
+      "loadFailed": "Could not load movies",
+      "selectMovieRequired": "Select a movie to delete",
+      "deleteFailed": "Could not delete the movie"
+    },
+
+    "createFunction": {
+      "title": "New Function",
+      "subtitle": "Create new function",
+      "movie": "Movie",
+      "selectMovie": "Select movie",
+      "headquarters": "Headquarters",
+      "selectHeadquarters": "Select headquarters",
+      "room": "Room",
+      "selectRoom": "Select room",
+      "capacity": "Capacity",
+      "date": "Date",
+      "dateFormat": "dd/mm/yyyy",
+      "time": "Time",
+      "timeFormat": "--:--",
+      "format": "Format",
+      "generalPrice": "General Price",
+      "preferentialPrice": "Preferential Price",
+      "pricePlaceholder": "0.00"
+    },
+
+    "functionSchedule": {
+      "title": "Function",
+      "titleAccent": "Schedule",
+      "subtitle": "View and manage all programmed functions across your locations.",
+      "filterBySede": "Filter by location",
+      "allSedes": "All locations",
+      "totalFunctions": "Total functions",
+      "noFunctions": "No functions programmed",
+      "movie": "Movie",
+      "sede": "Location",
+      "room": "Room",
+      "time": "Time",
+      "format": "Format"
+    }
+  },
+  "dashboard": {
+    "multiplex": {
+      "editMultiplex": "Edit Multiplex",
+      "newRoom": "New Room",
+      "emptyRooms": "There are no active room configurations for this multiplex. Press \"New Room\" to begin."
+    },
+
+    "multiplexForm": {
+      "name": "Name",
+      "namePlaceholder": "Ex: Cine Pacho Titan Plaza",
+      "city": "City",
+      "cityPlaceholder": "Ex: Bogotá",
+      "address": "Address",
+      "addressPlaceholder": "Ex: Av. Carrera 72 #80-94",
+      "image": "Image URL",
+      "seatConfiguration": "Seat Configuration",
+      "rows": "Rows",
+      "columns": "Columns",
+      "updateMultiplex": "Update Multiplex",
+      "registerMultiplex": "Register Multiplex"
+    },
+
+    "room": {
+      "active": "Active",
+      "maintenance": "Maintenance",
+      "inactive": "Inactive",
+      "totalCapacity": "Total Capacity:",
+      "seats": "seats",
+      "generalVsPref": "General vs Pref:",
+      "generalInitial": "G",
+      "preferentialInitial": "P"
+    },
+
+    "roomForm": {
+      "roomName": "Room Name",
+      "roomPlaceholder": "Ex: VIP Room",
+      "type": "Type",
+      "rows": "Rows",
+      "columns": "Columns",
+      "totalSeats": "Total Seats:",
+      "general": "General",
+      "preferential": "Preferential",
+      "seatDistribution": "Seat Distribution",
+      "updateRoom": "Update Room",
+      "createRoom": "Create Room"
+    },
+
+    "multiplexManagement": {
+      "title": "Multiplex &",
+      "titleAccent": "Rooms",
+      "subtitle": "Infrastructure, seating capacity and commercial settings control center.",
+      "newMultiplex": "New Multiplex",
+      "registeredLocations": "Registered Locations",
+      "roomsInfrastructure": "Rooms in Infrastructure",
+      "roomsOnline": "Rooms Enabled",
+      "registerLocation": "Register Location",
+      "modifyLocation": "Modify Location",
+      "addRoom": "Add New Room",
+      "configureRoom": "Configure Room",
+      "catalogModule": "Structural Catalog Module"
+    }
+  },
+  "employee": {
+    "table": {
+      "code": "Code",
+      "employee": "Employee",
+      "user": "User",
+      "salary": "Salary",
+      "role": "Role",
+      "multiplex": "Multiplex",
+      "lastChange": "Last change",
+      "history": "History",
+      "actions": "Actions",
+      "since": "Since",
+      "unassigned": "Unassigned"
+    },
+
+    "roles": {
+      "director": "Director",
+      "encargado_sala": "Room Manager",
+      "cajero": "Cashier",
+      "despachador_comida": "Food dispatcher",
+      "aseador": "Cleaner"
+    },
+
+    "states": {
+      "activo": "Active",
+      "vacaciones": "Vacation",
+      "suspendido": "Suspended",
+      "despedido": "Fired"
+    },
+
+    "actions": {
+      "viewHistory": "View History",
+      "fireEmployee": "Fire Employee",
+      "promote": "Promote",
+      "degrade": "Demote",
+      "fire": "Fire"
+    },
+
+    "filters": {
+      "search": "Search employee or code...",
+      "allRoles": "All roles",
+      "allMultiplexes": "All multiplexes",
+      "allStates": "All states"
+    },
+
+    "history": {
+      "title": "Work History",
+      "start": "Start",
+      "end": "End",
+      "current": "Current",
+      "unknown": "Unknown"
+    },
+
+    "management": {
+      "internalAdmin": "Internal Administration",
+      "title": "Employee Management",
+      "description": "Manage operational staff, roles and work history across multiplexes.",
+      "save": "Save Changes",
+      "new": "New employee",
+      "view": "View",
+      "create": {
+        "badge": "Staff onboarding",
+        "title": "Create employee",
+        "submit": "Create employee"
+      },
+      "loadError": "Employees could not be loaded from the backend",
+      "saveError": "The change could not be saved"
+    },
+    "credentials": {
+      "title": "Generated credentials",
+      "email": "Email",
+      "password": "Password",
+      "emailMissing": "User has no email on file",
+      "saveFailed": "Failed to save credentials"
+    },
+
+    "maganment": {
+      "view": "View"
+    },
+
+    "form": {
+      "codigoEmpleado": "Employee code",
+      "codigoPlaceholder": "Optional, it will be generated automatically",
+      "cedula": "User ID card",
+      "cedulaPlaceholder": "Cedula registered in /usuarios",
+      "salario": "Salary",
+      "salarioPlaceholder": "Base salary for the employee",
+      "userNotFound": "No user was found with that cedula",
+      "selectMultiplex": "Select a multiplex",
+      "helper": "The backend will generate the code if you leave it blank. Only real Empleado model fields are sent."
+    },
+    "dashboard":{
+      "customerLookupError": "There wasn't any user found with that ID.",
+      "loading": "Loading employee session.",
+      "loadingMultiplex": "Adjusting designated headquarter and permissions...",
+      "title": "Dashboard",
+      "client": "Client",
+      "placeholderEmailBar": "Write an email to get points or free ticket...",
+      "registering": "Registering",
+      "registerClient": "Register client",
+      "validating": "Validating",
+      "registered": "Registered",
+      "pending": "Pending",
+      "anonimous": "Anonimous"
+    },
+    "bookingAssisted":{
+      "ticketOffice": "Ticket Office: ",
+      "general": "General",
+      "select": "Select a movie to start the assisted sell.",
+      "placeHolderSearch": "Search movie..."
+    },
+    "sidebar":{
+      "tickets": "Sell Tickets",
+      "food": "Sell Snacks"
+    }
+  },
+  "userManagement": {
+    "header": {
+      "badge": "Internal Administration",
+      "title": "User Management",
+      "description": "Manage system users, create access, edit details, and remove accounts when needed."
+    },
+    "filters": {
+      "searchPlaceholder": "Search by ID, name, or email",
+      "allRoles": "All roles"
+    },
+    "roles": {
+      "cliente": "Client",
+      "empleado": "Employee",
+      "administrador": "Administrator"
+    },
+    "table": {
+      "name": "Name",
+      "email": "Email",
+      "role": "Role",
+      "points": "Points obtained",
+      "actions": "Actions",
+      "loading": "Loading users...",
+      "empty": "There are no users to show."
+    },
+    "form": {
+      "createBadge": "Create user",
+      "editBadge": "Edit user",
+      "newRecord": "New record",
+      "placeholders": {
+        "cedula": "ID card",
+        "nombre": "First name",
+        "apellido": "Last name",
+        "email": "Email address",
+        "telefono": "Phone",
+        "direccion": "Address",
+        "password": "Password",
+        "newPassword": "New password (optional)"
+      }
+    },
+    "actions": {
+      "edit": "Edit",
+      "delete": "Delete",
+      "create": "Create",
+      "update": "Update",
+      "clear": "Clear",
+      "saving": "Saving..."
+    },
+    "errors": {
+      "loadUsers": "Users could not be loaded",
+      "passwordRequired": "Password is required to create a user",
+      "saveUser": "The user could not be saved",
+      "deleteUser": "The user could not be deleted"
+    },
+    "confirmDelete": "Delete user {{name}}?"
+  },
+  "inventory": {
+    "header": {
+      "badge": "Operations Administration",
+      "title": "Inventory",
+      "description": "Manage stock, products, and operational inventory adjustments for the multiplex."
+    },
+
+    "filters": {
+      "searchPlaceholder": "Search product or brand..."
+    },
+
+    "stats": {
+      "products": "Products",
+      "totalUnits": "Total Units",
+      "lowStock": "Low Stock"
+    },
+
+    "table": {
+      "product": "Product",
+      "brand": "Brand",
+      "stock": "Stock",
+      "price": "Price",
+      "actions": "Actions",
+      "adjust": "Adjust",
+      "delete": "Delete"
+    },
+
+    "deleteModal": {
+      "title": "Delete product",
+      "description": "This action cannot be undone. {{itemName}} will be deleted.",
+      "defaultItem": "The selected product",
+      "deleting": "Deleting..."
+    },
+
+    "adjust": {
+      "title": "Inventory Adjustment",
+      "currentStock": "Current Stock",
+      "adjustment": "Adjustment",
+      "helper": "Use positive values to add stock and negative values to reduce inventory."
+    }
+    ,
+    "form": {
+      "title": "Add product to selected headquarters",
+      "name": "Name",
+      "brand": "Brand",
+      "price": "Price",
+      "image": "Image (URL)",
+      "addButton": "Add to headquarters",
+      "adding": "Adding..."
+    }
+  },
+  "survey": {
+    "hero": {
+      "title": "How was your showing?",
+      "description": "We hope you enjoyed the function. Your feedback helps us perfect the cinematic experience."
+    },
+
+    "movie": {
+      "title": "Film Experience",
+      "subtitle": "Quality & Sound"
+    },
+
+    "amenities": {
+      "title": "Theater Amenities",
+      "subtitle": "Service & Comfort"
+    },
+
+    "feedback": {
+      "title": "Director's Notes",
+      "description": "Any additional thoughts you'd like to share?",
+      "placeholder": "Type your review here..."
+    },
+
+    "labels": {
+      "poor": "Poor",
+      "masterpiece": "Masterpiece",
+      "immaculate": "Immaculate"
+    },
+
+    "actions": {
+      "submit": "Submit Review"
+    },
+
+    "selector": {
+      "badge": "Movie Selection",
+      "title": "Choose a Movie",
+      "description": "Select one of the movies you recently watched to leave a review.",
+      "watchedOn": "Watched on"
+    },
+
+    "empty": {
+      "title": "Select a Movie",
+      "description": "Choose a movie above to start your review."
+    }
+  },
+  "register": {
+    "badge": "New Account",
+    "title": "Register",
+    "subtitle": "Create an account to enjoy the Cine Pacho experience.",
+    "name": "First Name",
+    "namePlaceholder": "John",
+    "lastName": "Last Name",
+    "lastNamePlaceholder": "Doe",
+    "cedula": "ID",
+    "phone": "Phone",
+    "address": "Address (optional)",
+    "addressPlaceholder": "St. 123 #45-67",
+    "email": "Email Address",
+    "emailPlaceholder": "email@cinepacho.com",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "passwordMismatch": "Passwords do not match.",
+    "corporateEmailRequired": "You must use a corporate @cinepacho.com email",
+    "submit": "Register",
+    "loading": "Creating Account...",
+    "haveAccount": "Already have an account?",
+    "login": "Sign In",
+    "failed": "Register failed"
+  },
+  "auth": {
+    "cinemaExperience": "Cinema Experience",
+    "invalidCredentials": "Invalid credentials"
+  },
+  "validation": {
+    "login": {
+      "email": {
+        "required": "In the email field, you need to enter a value.",
+        "invalid": "In the email field, you need to enter a valid email address."
+      },
+      "password": {
+        "required": "In the password field, you need to enter a value.",
+        "min": "In the password field, you need to enter at least 6 characters."
+      }
+    },
+    "register": {
+      "name": {
+        "required": "In the first name field, you need to enter a value.",
+        "length": "The first name field needs {{count}} more characters."
+      },
+      "lastName": {
+        "required": "In the last name field, you need to enter a value.",
+        "length": "The last name field needs {{count}} more characters."
+      },
+      "cedula": {
+        "required": "In the ID field, you need to enter a value.",
+        "digits": "In the ID field, you can only enter numbers.",
+        "length": "The ID field needs {{count}} more digits."
+      },
+      "phone": {
+        "required": "In the phone field, you need to enter a value.",
+        "digits": "In the phone field, you can only enter numbers.",
+        "length": "The phone field needs {{count}} more digits."
+      },
+      "address": {
+        "required": "In the address field, you need to enter a value.",
+        "length": "The address field needs {{count}} more characters."
+      },
+      "email": {
+        "required": "In the email field, you need to enter a value.",
+        "invalid": "In the email field, you need to enter a valid email address."
+      },
+      "password": {
+        "required": "In the password field, you need to enter a value.",
+        "min": "In the password field, you need to enter at least 6 characters."
+      },
+      "confirmPassword": {
+        "required": "In the confirm password field, you need to enter a value.",
+        "min": "In the confirm password field, you need to enter at least 6 characters.",
+        "mismatch": "In the confirm password field, the passwords do not match."
+      }
+    }
+  },
+  "login": {
+    "badge": "Secure Access",
+    "title": "Sign In",
+    "subtitle": "Access your account to continue your cinematic experience.",
+    "email": "Email Address",
+    "emailPlaceholder": "email@cinepacho.com",
+    "password": "Password",
+    "submit": "Enter",
+    "loading": "Signing In...",
+    "notHaveAccount": "Don't you have an account?",
+    "register": "Register",
+    "failed":"Log in failed"
+  },
+  "landing": {
+    "loading": "Loading movies...",
+    "error": "Error loading movies."
+  }
+}
